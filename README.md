@@ -7,7 +7,7 @@
 <h4 align="center"> OpenCore config for Hackintosh Huawei Matebook 14 2020 </h4>
 
 <p align="center">
-<a href="https://www.apple.com/macos/monterey/">
+<a href="https://www.apple.com/it/macos/macos-ventura-preview/">
   <img src="https://img.shields.io/badge/macOS-Ventura%2013.0%20-blue" width="215"/> </a>
 <a href="https://dortania.github.io/build-repo/">
   <img src="https://img.shields.io/badge/OpenCore-0.8.3-blue" width="155"/> </a>
@@ -118,8 +118,8 @@ S4 Hibernation / Wake   |  I don't have Type-C USB. If you map the USB Ports it 
 Type | Info | 
 :---------|:---------|
 SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
-Rename config    | If you install Monterey+, you can delete BrcmBluetoothInjector.kext and AirportItlwmBigSur.kext in OC/Kexts. If you install Big Sur-, you can delete BlueToolFixup.kext and AirportItlwmMonterey in OC/Kexts. | ⚠️ 
-Disable CFG Lock (Optional) | Here my guide [READ](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#how-to-disable-cfg-lock) | ⚠️
+Rename your config  | Rename the config.plist in the EFI accordingly to your OS version. Example: config [Monterey].plist ----> config .plist if you want to install monterey
+Disable CFG Lock (Optional) | [How to disable CFG Lock](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#how-to-disable-cfg-lock)
 Laptop LCD  | The LCD works, if it blackout during the boot just close the lid for around 45 seconds and re-open it. |  ⚠️
 
 ## Kext Used 
