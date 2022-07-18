@@ -96,7 +96,7 @@ Brightness control                  |  ✅
 HDMI                                |  ✅  
 Audio Realtek ALC256            |  ✅  
 Intel Wireless-AC 9462 Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅  
-2 Type-C Port       |  ✅  
+Type-C Port       |  ✅  
 Touchpad (14 gestures are working)   |  ✅  
 Battery status   |  ✅  
 Shutdown / Reboot   |  ✅  
