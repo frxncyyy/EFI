@@ -1,18 +1,16 @@
-# EFI
-
-<h1 align="center"> macOS on Huawei Matebook 13 2020 </h1>
+<h1 align="center"> macOS on Huawei Matebook 14 2020 </h1>
 
 <p align="center">
   <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/Matebook%2013%202020.png" alt="Huawei Matebook 13 2020">
 </p>
 
-<h4 align="center"> OpenCore config for Hackintosh Huawei Matebook 13 2020 </h4>
+<h4 align="center"> OpenCore config for Hackintosh Huawei Matebook 14 2020 </h4>
 
 <p align="center">
 <a href="https://www.apple.com/macos/monterey/">
-  <img src="https://img.shields.io/badge/macOS-Monterey_v12.3-blue" width="215"/> </a>
-<a href="https://github.com/acidanthera/OpenCorePkg/releases">
-  <img src="https://img.shields.io/badge/OpenCore-0.7.9-9cf" width="155"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Ventura%2013.0%20-blue" width="215"/> </a>
+<a href="https://dortania.github.io/build-repo/">
+  <img src="https://img.shields.io/badge/OpenCore-0.8.3-blue" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
 </p>
@@ -62,6 +60,8 @@
   <img src="https://github.com/frxncyyy/EFI/blob/main/Screenshot%202022-07-18%20alle%2017.46.42.png">
 </p>
 <details>
+
+
   <summary> <h3>Photos</h3> </summary>
   <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/Matebook%20Photo.jpg" alt="Huawei Matebook 13 2020">
 </details>
